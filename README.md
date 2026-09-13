@@ -117,7 +117,7 @@ notifications_meme/
 
 1. **Клонуйте репозиторій:**
    ```bash
-   git clone https://github.com/your-username/notifications_meme.git
+   git clone https://github.com/energ0x/notifications_meme.git
    cd notifications_meme
    ```
 
